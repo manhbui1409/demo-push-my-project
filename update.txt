@@ -1,4 +1,4 @@
-1 tạo project trên GitHub
+ tạo project trên GitHub
 2 tạo 1 git hub repository
 3 git clone + link trên thanh http
 4 git status
